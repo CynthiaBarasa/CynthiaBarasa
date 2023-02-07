@@ -43,13 +43,13 @@ Here are some ideas to get you started:
   
   I am a Data Scientist/ Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
   
-- :telescope: I am passionate about data science and emerging technologies.
+:telescope: I am passionate about data science and emerging technologies.
 
-- :seedling:I am a self-taught Data Scientist, who works on various projects of Data Analytics, Machine Learning, and Deep Learning.
+:seedling:I am a self-taught Data Scientist, who works on various projects of Data Analytics, Machine Learning, and Deep Learning.
 
-- :zap: I love Python, Machine Learning, Time Forecasting, NLP, Deep Learning, pretty visualizations, clean notebooks, and everything in between.
+:zap: I love Python, Machine Learning, Time Forecasting, NLP, Deep Learning, pretty visualizations, clean notebooks, and everything in between.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)
 https://www.linkedin.com/in/cynthia-barasa]
   
   ---
