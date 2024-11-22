@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/cynthia-barasa/">
+  <a href="https://www.linkedin.com/in/cynthiabarasa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/barasancynthia">
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 :zap: I love Python, Machine Learning, Time Forecasting, NLP, Deep Learning, pretty visualizations, clean notebooks, and everything in between.
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)
-https://www.linkedin.com/in/cynthia-barasa]
+https://www.linkedin.com/in/cynthiabarasa]
   
   ---
 
